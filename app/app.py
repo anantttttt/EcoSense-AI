@@ -130,6 +130,72 @@ if st.button("🌱 Analyse My Sustainability", type="primary"):
 
     for factor in factors:
         st.write(f"- {factor}")
+            # -----------------------------
+    # Impact Analysis
+    # -----------------------------
+
+    st.subheader("🌍 Potential Impact Areas")
+
+    impact_areas = []
+
+    if electricity > 300:
+        impact_areas.append(
+            "Energy: Reducing unnecessary electricity use may "
+            "lower energy demand and associated emissions."
+        )
+
+    if transport_value >= 2:
+        impact_areas.append(
+            "Transport: Reducing fossil-fuel vehicle use may "
+            "lower transport-related emissions."
+        )
+
+    if waste > 10:
+        impact_areas.append(
+            "Waste: Reducing and segregating waste can support "
+            "resource recovery and reduce avoidable waste."
+        )
+
+    if water > 200:
+        impact_areas.append(
+            "Water: Reducing unnecessary water consumption can "
+            "support more efficient use of freshwater resources."
+        )
+
+    if not impact_areas:
+        impact_areas.append(
+            "Your current inputs do not indicate a major high-impact "
+            "area. Maintaining these habits can support sustainable living."
+        )
+
+    for impact in impact_areas:
+        st.info(impact)
+            # -----------------------------
+    # Sustainability Dashboard
+    # -----------------------------
+
+    st.subheader("📊 Sustainability Dashboard")
+
+    chart_data = {
+        "Category": [
+            "Electricity",
+            "Transport",
+            "Waste",
+            "Water"
+        ],
+        "Value": [
+            electricity,
+            transport_value,
+            waste,
+            water
+        ]
+    }
+
+    st.bar_chart(
+        chart_data,
+        x="Category",
+        y="Value"
+    )
 
     score = 100
     recommendations = []

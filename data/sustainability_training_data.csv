@@ -1,0 +1,1001 @@
+electricity,transport,waste,water,category
+377,0,1.5,190,Good
+175,1,3.7,102,Excellent
+396,0,12.2,66,Moderate
+65,0,5.2,308,Excellent
+358,0,11.7,329,Moderate
+264,1,9.5,192,Moderate
+464,0,15.4,131,Moderate
+407,3,7.5,129,Needs Improvement
+160,2,2.9,244,Good
+99,2,17.1,185,Moderate
+463,0,14.9,324,Needs Improvement
+113,3,2.5,200,Good
+474,2,12.0,85,Needs Improvement
+73,1,15.7,90,Good
+487,1,17.5,244,Needs Improvement
+192,3,13.1,236,Needs Improvement
+133,2,7.8,186,Good
+409,0,12.6,137,Moderate
+323,1,4.1,244,Good
+188,1,14.0,78,Good
+167,0,16.3,255,Good
+187,0,5.0,340,Good
+498,2,5.0,305,Needs Improvement
+252,3,3.7,121,Moderate
+176,2,15.2,269,Moderate
+348,3,7.9,120,Needs Improvement
+310,3,2.7,74,Moderate
+490,0,3.9,131,Good
+455,3,12.3,247,Needs Improvement
+245,3,11.1,333,Needs Improvement
+490,0,13.9,108,Moderate
+399,2,15.6,224,Needs Improvement
+107,2,9.3,282,Moderate
+51,2,19.5,141,Moderate
+309,0,17.5,202,Moderate
+480,1,3.9,132,Moderate
+326,0,12.4,300,Moderate
+59,0,18.7,207,Good
+172,0,5.6,340,Good
+90,0,14.9,85,Excellent
+439,1,3.4,293,Moderate
+331,1,6.0,266,Moderate
+158,1,14.5,254,Moderate
+393,2,9.3,314,Needs Improvement
+281,0,5.7,82,Excellent
+223,0,12.2,167,Good
+351,1,1.1,80,Good
+167,0,18.2,219,Good
+86,1,6.3,298,Good
+159,1,14.7,342,Moderate
+345,3,5.6,292,Needs Improvement
+463,3,4.6,99,Needs Improvement
+387,3,7.7,260,Needs Improvement
+289,0,13.8,100,Good
+81,3,14.8,105,Moderate
+177,1,4.6,279,Good
+121,3,4.5,286,Moderate
+177,0,9.4,331,Good
+100,0,13.4,326,Good
+478,0,19.4,171,Needs Improvement
+135,3,10.2,159,Moderate
+492,3,18.1,134,Needs Improvement
+244,0,19.7,185,Moderate
+451,3,6.4,334,Needs Improvement
+388,3,3.9,201,Needs Improvement
+161,0,12.0,327,Good
+81,2,2.1,349,Good
+294,1,2.1,310,Good
+91,1,2.3,84,Excellent
+395,1,8.7,341,Moderate
+176,0,12.8,264,Good
+386,2,18.8,154,Needs Improvement
+392,2,5.5,252,Moderate
+117,2,9.7,87,Good
+54,3,12.8,338,Moderate
+101,0,11.2,309,Good
+185,1,18.7,85,Moderate
+500,1,8.0,130,Moderate
+274,2,12.6,320,Needs Improvement
+54,2,18.7,103,Moderate
+499,1,6.0,104,Moderate
+430,1,6.2,157,Moderate
+417,2,4.9,185,Moderate
+308,3,5.8,76,Moderate
+97,3,16.8,72,Moderate
+51,2,15.7,184,Moderate
+132,3,11.5,268,Moderate
+337,0,3.1,126,Good
+329,0,16.9,348,Moderate
+332,1,9.2,71,Moderate
+207,2,18.1,70,Moderate
+233,1,14.0,102,Moderate
+231,3,19.5,129,Needs Improvement
+171,1,19.5,140,Moderate
+261,0,4.4,220,Good
+450,3,16.2,177,Needs Improvement
+186,1,16.0,105,Moderate
+245,0,17.3,163,Moderate
+152,3,7.6,166,Moderate
+164,0,13.5,254,Good
+218,2,17.4,192,Needs Improvement
+229,3,13.9,324,Needs Improvement
+219,0,3.2,183,Excellent
+141,2,1.7,272,Good
+226,2,9.3,311,Moderate
+109,3,18.1,147,Needs Improvement
+180,0,14.5,50,Good
+316,1,7.9,85,Good
+390,2,12.8,113,Needs Improvement
+418,2,10.6,259,Needs Improvement
+217,3,14.2,333,Needs Improvement
+115,1,9.0,244,Good
+396,1,12.7,204,Moderate
+257,0,6.8,157,Good
+270,2,9.8,276,Moderate
+395,1,10.7,136,Moderate
+387,0,6.4,221,Good
+97,1,13.8,165,Good
+462,1,3.8,73,Moderate
+175,3,12.6,87,Moderate
+283,3,17.8,344,Needs Improvement
+149,3,10.4,174,Moderate
+125,0,18.0,104,Good
+448,3,5.2,315,Needs Improvement
+287,0,11.6,112,Good
+283,1,16.2,321,Moderate
+336,2,19.1,276,Needs Improvement
+363,3,16.8,330,Needs Improvement
+278,1,15.1,293,Moderate
+280,2,15.3,191,Needs Improvement
+442,3,12.9,190,Needs Improvement
+275,0,14.6,170,Moderate
+189,2,7.1,326,Moderate
+91,1,3.9,246,Excellent
+405,1,14.4,82,Moderate
+262,3,7.3,288,Needs Improvement
+262,0,4.9,265,Good
+249,0,17.3,344,Moderate
+244,3,1.1,230,Moderate
+202,3,17.2,264,Needs Improvement
+325,1,10.3,189,Moderate
+273,3,1.6,222,Moderate
+392,3,14.8,289,Needs Improvement
+115,0,18.2,338,Good
+389,0,2.6,269,Good
+119,3,4.5,183,Moderate
+244,2,5.0,217,Moderate
+222,3,6.3,265,Moderate
+179,0,9.9,326,Good
+76,2,5.3,85,Good
+449,0,15.3,176,Moderate
+152,0,12.8,172,Good
+114,3,13.7,338,Needs Improvement
+161,3,14.3,238,Needs Improvement
+135,0,15.8,133,Good
+209,0,12.0,209,Good
+344,3,8.5,151,Needs Improvement
+88,1,2.9,204,Excellent
+485,0,16.1,339,Needs Improvement
+450,0,7.6,269,Moderate
+388,2,2.3,224,Moderate
+56,3,16.6,104,Moderate
+271,2,13.1,285,Needs Improvement
+412,1,9.3,317,Moderate
+383,2,12.7,325,Needs Improvement
+446,3,9.8,187,Needs Improvement
+215,1,16.8,94,Moderate
+192,3,5.6,287,Moderate
+341,3,7.4,303,Needs Improvement
+485,2,4.5,158,Moderate
+231,2,7.5,191,Moderate
+334,0,10.8,147,Good
+93,1,14.7,300,Moderate
+334,1,14.1,301,Moderate
+279,0,2.8,163,Excellent
+257,1,6.8,347,Moderate
+238,3,11.5,226,Needs Improvement
+267,2,7.7,282,Moderate
+188,2,5.8,111,Good
+419,1,7.0,324,Moderate
+440,1,4.6,297,Moderate
+191,2,19.6,149,Moderate
+201,1,7.9,204,Good
+57,1,6.2,77,Excellent
+333,2,14.3,114,Needs Improvement
+376,3,2.9,56,Moderate
+343,2,9.9,275,Needs Improvement
+224,1,19.3,179,Moderate
+491,3,3.2,83,Needs Improvement
+255,3,2.4,77,Moderate
+127,1,16.4,205,Moderate
+93,1,3.3,263,Excellent
+360,1,15.7,244,Needs Improvement
+280,3,6.6,269,Needs Improvement
+206,0,12.6,100,Good
+440,1,12.9,185,Needs Improvement
+388,0,4.0,138,Good
+332,0,4.0,259,Good
+280,3,6.5,168,Moderate
+197,2,14.4,282,Moderate
+86,1,18.6,151,Moderate
+267,0,11.3,126,Good
+186,1,2.4,134,Excellent
+455,2,12.3,341,Needs Improvement
+197,3,3.4,205,Moderate
+408,3,18.9,306,Needs Improvement
+326,3,9.3,70,Needs Improvement
+271,2,12.5,63,Moderate
+96,1,19.3,344,Moderate
+350,0,20.0,187,Moderate
+345,0,15.5,139,Moderate
+290,3,18.4,142,Needs Improvement
+349,3,13.1,301,Needs Improvement
+96,3,7.6,220,Moderate
+214,0,17.3,218,Moderate
+260,3,6.5,255,Moderate
+466,0,9.6,211,Moderate
+179,2,3.2,256,Good
+492,0,13.5,327,Needs Improvement
+286,3,2.0,315,Moderate
+235,3,12.9,76,Moderate
+154,2,11.4,197,Moderate
+274,3,3.3,172,Moderate
+413,1,6.9,57,Moderate
+332,3,2.8,108,Moderate
+286,0,13.3,128,Good
+305,2,10.7,189,Moderate
+262,3,19.6,174,Needs Improvement
+283,1,8.3,310,Moderate
+432,1,17.4,191,Needs Improvement
+445,3,7.5,309,Needs Improvement
+186,0,6.4,202,Excellent
+478,3,17.4,278,Needs Improvement
+325,3,7.6,332,Needs Improvement
+440,3,9.7,214,Needs Improvement
+495,1,19.6,172,Needs Improvement
+342,3,5.4,260,Needs Improvement
+72,2,15.1,245,Moderate
+247,1,10.4,68,Good
+114,2,17.5,275,Moderate
+101,3,1.3,123,Good
+259,1,2.4,185,Good
+223,3,13.3,218,Needs Improvement
+486,3,19.1,299,Needs Improvement
+496,0,12.7,170,Moderate
+373,2,20.0,96,Needs Improvement
+272,0,15.4,101,Good
+277,1,14.2,64,Moderate
+73,2,16.1,200,Moderate
+233,2,9.2,175,Moderate
+321,3,11.8,142,Needs Improvement
+137,1,2.5,245,Excellent
+367,1,10.5,348,Moderate
+123,1,9.8,180,Good
+285,2,13.7,288,Needs Improvement
+197,1,2.4,226,Good
+350,2,13.1,267,Needs Improvement
+403,2,9.7,204,Needs Improvement
+151,3,17.2,104,Needs Improvement
+171,3,11.9,344,Needs Improvement
+201,2,1.4,252,Good
+190,0,11.8,75,Good
+360,3,16.8,196,Needs Improvement
+447,1,12.5,230,Needs Improvement
+162,1,12.8,120,Good
+371,0,18.2,70,Moderate
+208,3,1.6,236,Moderate
+424,1,2.7,201,Moderate
+217,3,4.3,117,Moderate
+452,2,11.1,189,Needs Improvement
+475,1,5.9,296,Moderate
+462,2,15.2,223,Needs Improvement
+461,0,9.9,88,Moderate
+122,1,17.3,253,Moderate
+483,2,2.7,252,Needs Improvement
+57,2,11.2,282,Moderate
+238,2,12.1,240,Moderate
+105,1,10.0,337,Good
+217,1,13.3,287,Moderate
+408,2,13.3,109,Needs Improvement
+121,0,19.0,205,Good
+302,0,2.8,325,Good
+119,3,9.6,326,Moderate
+264,1,17.8,100,Moderate
+476,3,12.7,193,Needs Improvement
+66,2,5.1,277,Good
+170,2,2.9,238,Good
+328,2,2.2,191,Moderate
+147,0,19.0,282,Moderate
+96,1,13.2,60,Good
+75,2,5.6,114,Good
+452,1,2.3,333,Moderate
+156,1,16.4,169,Moderate
+218,1,16.0,51,Moderate
+191,1,19.8,326,Moderate
+178,1,3.1,63,Excellent
+117,0,7.8,171,Excellent
+351,2,1.3,185,Moderate
+76,1,15.1,319,Moderate
+108,0,10.0,235,Excellent
+312,0,9.6,163,Good
+364,0,14.8,316,Moderate
+204,3,13.2,65,Moderate
+81,3,17.1,268,Needs Improvement
+401,0,10.3,277,Moderate
+87,0,7.1,125,Excellent
+83,1,6.2,349,Good
+330,2,8.2,321,Moderate
+200,3,10.6,270,Needs Improvement
+100,0,17.2,332,Good
+419,1,9.2,166,Moderate
+261,2,16.7,254,Needs Improvement
+262,0,6.9,210,Good
+390,2,8.1,128,Moderate
+401,3,2.3,93,Moderate
+97,3,2.8,240,Good
+465,1,11.6,350,Needs Improvement
+337,2,13.7,260,Needs Improvement
+231,3,17.5,76,Needs Improvement
+197,2,7.7,345,Moderate
+309,1,3.9,296,Moderate
+164,0,7.7,334,Good
+238,0,15.5,343,Moderate
+165,3,17.1,335,Needs Improvement
+63,2,1.6,189,Excellent
+409,2,18.5,229,Needs Improvement
+53,1,17.5,339,Moderate
+386,3,2.3,65,Moderate
+96,1,8.1,282,Good
+224,1,8.0,216,Good
+447,0,17.8,129,Moderate
+130,0,13.8,189,Good
+276,3,10.2,276,Needs Improvement
+262,2,5.1,312,Moderate
+108,2,9.2,195,Good
+397,3,11.0,207,Needs Improvement
+73,1,8.5,78,Excellent
+53,1,6.7,158,Excellent
+442,1,15.5,198,Needs Improvement
+217,0,1.1,270,Excellent
+139,1,8.2,167,Good
+306,2,2.4,71,Good
+273,0,9.7,89,Good
+491,2,11.9,343,Needs Improvement
+257,3,6.5,257,Moderate
+60,2,4.3,285,Good
+475,2,2.7,104,Moderate
+174,3,12.2,318,Needs Improvement
+90,3,17.5,223,Needs Improvement
+163,2,15.8,89,Moderate
+311,0,11.1,149,Good
+447,2,7.7,125,Needs Improvement
+170,0,3.8,151,Excellent
+138,1,15.4,88,Good
+140,3,9.8,338,Moderate
+439,3,13.9,339,Needs Improvement
+379,2,17.4,211,Needs Improvement
+127,3,2.3,276,Moderate
+373,2,16.1,78,Needs Improvement
+230,0,6.9,281,Good
+69,0,8.0,196,Excellent
+89,0,12.7,309,Good
+246,3,12.0,71,Moderate
+280,1,7.1,293,Moderate
+306,1,19.2,280,Needs Improvement
+102,2,19.7,93,Moderate
+308,1,1.7,274,Good
+274,1,7.9,194,Good
+248,3,15.7,76,Needs Improvement
+454,2,2.3,98,Moderate
+335,3,6.4,126,Moderate
+220,0,12.1,122,Good
+229,2,19.4,250,Needs Improvement
+116,0,6.9,242,Excellent
+379,2,16.5,319,Needs Improvement
+97,3,10.7,59,Moderate
+235,2,4.4,159,Good
+224,3,4.6,120,Moderate
+129,0,6.6,101,Excellent
+309,0,13.6,117,Good
+355,3,3.9,142,Moderate
+475,1,14.7,72,Needs Improvement
+260,2,13.9,171,Moderate
+277,2,15.3,279,Needs Improvement
+169,1,6.9,290,Good
+477,1,8.0,342,Needs Improvement
+275,3,15.6,245,Needs Improvement
+307,3,19.4,152,Needs Improvement
+460,1,17.6,76,Needs Improvement
+378,3,17.6,333,Needs Improvement
+102,0,6.4,132,Excellent
+189,3,18.2,125,Needs Improvement
+475,3,2.7,163,Needs Improvement
+468,3,17.8,63,Needs Improvement
+262,0,8.5,241,Good
+170,3,19.9,241,Needs Improvement
+164,0,7.1,100,Excellent
+479,2,16.0,120,Needs Improvement
+69,2,18.4,291,Moderate
+406,1,15.4,290,Needs Improvement
+279,0,18.2,59,Moderate
+181,1,16.9,330,Moderate
+422,3,3.1,197,Needs Improvement
+171,2,3.3,172,Good
+264,3,2.2,305,Moderate
+355,0,13.0,344,Moderate
+173,1,6.5,50,Excellent
+364,2,5.6,263,Moderate
+145,0,10.9,234,Good
+84,0,8.4,290,Excellent
+72,3,19.6,179,Needs Improvement
+432,0,7.8,84,Good
+226,1,14.9,103,Moderate
+445,2,3.5,230,Moderate
+329,2,16.5,139,Needs Improvement
+475,3,19.6,295,Needs Improvement
+373,1,16.4,82,Moderate
+416,3,1.7,153,Moderate
+72,1,17.8,211,Moderate
+208,3,19.8,328,Needs Improvement
+292,2,1.7,147,Good
+196,2,17.4,74,Moderate
+493,2,6.2,238,Needs Improvement
+273,3,15.1,247,Needs Improvement
+223,1,10.4,304,Moderate
+238,2,16.2,267,Needs Improvement
+90,3,12.4,142,Moderate
+329,2,7.1,90,Moderate
+217,2,6.8,268,Moderate
+135,3,7.7,71,Moderate
+422,2,12.7,272,Needs Improvement
+190,0,2.4,257,Excellent
+236,1,19.1,123,Moderate
+484,3,1.7,84,Needs Improvement
+170,2,7.9,340,Moderate
+66,1,13.9,239,Good
+240,3,15.5,343,Needs Improvement
+120,2,8.6,192,Good
+177,0,1.5,145,Excellent
+305,3,18.4,110,Needs Improvement
+184,2,14.4,159,Moderate
+363,2,14.2,301,Needs Improvement
+152,0,3.6,87,Excellent
+281,1,18.1,277,Needs Improvement
+94,2,13.7,83,Good
+331,2,17.9,130,Needs Improvement
+414,1,16.1,310,Needs Improvement
+164,0,19.7,121,Good
+171,3,1.5,333,Moderate
+343,2,9.9,332,Needs Improvement
+116,0,2.2,253,Excellent
+417,3,11.0,259,Needs Improvement
+471,0,3.4,212,Good
+378,0,9.5,314,Moderate
+226,1,17.7,332,Moderate
+377,1,15.6,116,Moderate
+271,0,16.8,315,Moderate
+128,2,4.1,215,Good
+413,1,7.6,315,Moderate
+195,0,5.8,332,Good
+190,1,12.9,323,Moderate
+97,1,12.2,347,Good
+128,1,13.5,222,Good
+481,0,16.7,64,Moderate
+91,0,19.0,345,Good
+185,1,15.6,263,Moderate
+366,0,10.5,329,Moderate
+198,2,10.2,257,Moderate
+202,3,2.4,80,Moderate
+130,3,8.9,287,Moderate
+154,2,12.5,210,Moderate
+491,2,14.9,226,Needs Improvement
+254,1,15.5,313,Moderate
+337,0,7.1,288,Good
+112,2,9.5,122,Good
+99,0,6.5,246,Excellent
+492,3,5.7,131,Needs Improvement
+466,2,18.7,210,Needs Improvement
+147,1,10.5,313,Good
+289,3,17.7,304,Needs Improvement
+61,0,19.0,308,Good
+284,1,5.1,230,Good
+74,0,6.3,290,Excellent
+196,0,17.1,270,Moderate
+118,2,14.8,256,Moderate
+237,0,8.6,341,Good
+337,1,7.9,197,Moderate
+87,3,10.6,331,Moderate
+193,0,3.4,99,Excellent
+251,2,16.1,223,Needs Improvement
+335,2,15.3,151,Needs Improvement
+358,3,10.5,73,Needs Improvement
+69,1,14.6,292,Good
+315,3,3.8,313,Needs Improvement
+121,2,18.7,213,Moderate
+133,3,19.8,203,Needs Improvement
+353,2,10.6,310,Needs Improvement
+322,3,14.5,203,Needs Improvement
+293,0,8.0,106,Good
+263,2,16.1,63,Moderate
+355,3,6.0,346,Needs Improvement
+345,1,14.7,348,Needs Improvement
+295,1,11.0,244,Moderate
+125,1,1.6,106,Excellent
+147,0,9.4,264,Good
+127,3,14.1,260,Moderate
+306,3,17.6,81,Needs Improvement
+411,1,10.9,337,Needs Improvement
+216,3,11.0,210,Needs Improvement
+138,3,18.3,225,Needs Improvement
+329,2,13.8,185,Needs Improvement
+362,3,4.7,176,Needs Improvement
+192,2,5.3,202,Good
+444,2,14.4,300,Needs Improvement
+212,3,7.6,190,Moderate
+197,0,11.9,328,Good
+244,3,16.5,124,Needs Improvement
+198,0,6.5,90,Excellent
+227,3,13.5,295,Needs Improvement
+159,1,16.7,188,Moderate
+337,2,3.6,350,Moderate
+172,1,2.0,321,Good
+165,1,2.0,261,Good
+219,3,2.9,120,Moderate
+52,1,8.7,293,Good
+294,1,15.4,197,Moderate
+214,2,13.3,95,Moderate
+383,1,11.2,69,Moderate
+139,3,17.8,140,Needs Improvement
+68,3,16.0,145,Moderate
+433,2,17.7,54,Needs Improvement
+202,0,18.6,221,Moderate
+195,3,19.8,328,Needs Improvement
+318,3,17.9,118,Needs Improvement
+485,3,6.2,107,Needs Improvement
+219,1,14.9,181,Moderate
+417,1,1.3,222,Moderate
+454,2,11.8,148,Needs Improvement
+139,3,16.7,313,Needs Improvement
+217,0,8.6,98,Excellent
+144,1,10.1,177,Good
+53,2,8.3,278,Good
+435,2,19.1,204,Needs Improvement
+348,0,6.0,234,Good
+404,1,2.2,110,Good
+288,2,4.0,307,Moderate
+410,2,14.1,201,Needs Improvement
+238,1,5.2,118,Good
+294,1,9.6,241,Moderate
+262,3,15.4,161,Needs Improvement
+440,1,13.9,91,Moderate
+319,3,11.0,235,Needs Improvement
+89,0,2.2,330,Excellent
+308,1,11.9,126,Moderate
+134,2,17.2,276,Moderate
+109,1,14.6,300,Moderate
+96,3,16.4,282,Needs Improvement
+117,3,9.7,79,Moderate
+336,3,13.8,207,Needs Improvement
+420,0,8.5,51,Good
+431,1,12.0,73,Moderate
+266,2,14.3,327,Needs Improvement
+80,0,19.7,291,Good
+66,2,8.8,119,Good
+442,3,8.1,245,Needs Improvement
+279,3,8.1,326,Needs Improvement
+118,2,3.3,325,Good
+251,1,14.8,164,Moderate
+477,0,15.4,202,Moderate
+287,3,11.1,167,Needs Improvement
+176,3,7.6,191,Moderate
+146,0,1.6,264,Excellent
+364,0,5.6,84,Good
+101,0,9.5,74,Excellent
+175,0,8.6,169,Excellent
+326,1,15.3,78,Moderate
+121,2,5.4,344,Good
+213,2,5.5,123,Good
+388,1,8.9,190,Moderate
+81,1,12.9,268,Good
+334,3,1.9,226,Moderate
+379,3,15.9,213,Needs Improvement
+406,3,8.8,203,Needs Improvement
+242,1,15.3,292,Moderate
+173,1,6.7,123,Good
+462,3,18.4,337,Needs Improvement
+261,3,11.6,118,Needs Improvement
+248,1,5.8,219,Good
+381,0,18.5,239,Moderate
+97,1,2.0,243,Excellent
+394,0,17.6,146,Moderate
+461,1,10.1,220,Moderate
+205,0,5.0,147,Excellent
+429,0,15.2,295,Moderate
+174,1,8.5,172,Good
+332,2,15.7,244,Needs Improvement
+288,2,6.9,234,Moderate
+312,3,9.9,290,Needs Improvement
+439,2,18.4,239,Needs Improvement
+210,3,1.9,163,Moderate
+429,1,1.3,333,Moderate
+349,3,6.6,150,Needs Improvement
+218,1,8.2,175,Good
+305,2,5.9,300,Moderate
+420,3,9.8,230,Needs Improvement
+136,1,14.7,300,Moderate
+144,0,11.0,88,Excellent
+468,0,15.5,261,Needs Improvement
+120,1,2.3,127,Excellent
+54,1,10.6,241,Good
+80,3,13.5,58,Moderate
+53,3,1.2,321,Good
+419,2,11.2,196,Needs Improvement
+58,3,16.3,141,Moderate
+104,0,11.0,173,Excellent
+148,2,16.5,186,Moderate
+457,3,2.5,257,Needs Improvement
+285,1,19.8,165,Moderate
+203,0,13.4,66,Good
+97,3,8.2,332,Moderate
+293,0,13.1,137,Good
+92,3,17.1,219,Needs Improvement
+339,0,18.0,71,Moderate
+167,1,18.1,340,Moderate
+293,2,1.9,88,Good
+400,2,18.1,338,Needs Improvement
+386,0,4.4,211,Good
+58,1,12.2,253,Good
+89,2,4.1,173,Good
+340,3,13.9,326,Needs Improvement
+219,3,15.4,121,Needs Improvement
+454,0,10.5,227,Moderate
+77,0,9.3,88,Excellent
+224,3,19.4,217,Needs Improvement
+65,2,15.9,280,Moderate
+301,1,7.8,242,Moderate
+271,1,13.9,244,Moderate
+93,2,16.2,87,Moderate
+92,2,3.9,128,Good
+428,3,7.0,104,Needs Improvement
+96,0,18.9,277,Good
+234,2,2.9,94,Good
+145,3,9.5,334,Moderate
+312,3,3.0,95,Moderate
+231,0,12.3,216,Good
+492,3,1.2,261,Needs Improvement
+248,0,14.8,336,Moderate
+174,1,14.0,136,Good
+121,2,6.7,302,Good
+124,0,4.2,191,Excellent
+265,2,10.2,89,Moderate
+234,2,18.9,303,Needs Improvement
+354,1,9.7,119,Moderate
+205,0,19.0,220,Moderate
+480,3,16.3,218,Needs Improvement
+275,2,9.2,119,Moderate
+203,2,12.5,152,Moderate
+295,2,4.4,253,Moderate
+213,2,15.0,301,Needs Improvement
+344,1,7.2,193,Moderate
+468,3,7.9,338,Needs Improvement
+152,1,14.0,331,Moderate
+63,3,18.9,157,Moderate
+274,2,16.8,85,Moderate
+469,3,13.8,121,Needs Improvement
+374,2,5.6,128,Moderate
+416,3,16.0,87,Needs Improvement
+279,3,12.1,323,Needs Improvement
+309,3,11.3,234,Needs Improvement
+409,0,3.1,177,Good
+386,2,4.2,72,Moderate
+338,3,19.4,219,Needs Improvement
+457,3,3.0,100,Needs Improvement
+182,1,10.7,315,Moderate
+335,1,9.5,250,Moderate
+287,1,7.6,62,Good
+297,0,6.6,93,Good
+109,1,7.6,225,Good
+283,1,10.9,228,Moderate
+293,0,9.3,281,Good
+213,0,6.7,108,Excellent
+61,2,13.3,134,Good
+429,1,10.8,332,Needs Improvement
+131,2,11.6,286,Moderate
+168,3,13.0,145,Moderate
+377,3,8.5,151,Needs Improvement
+280,3,8.4,159,Moderate
+155,2,15.3,82,Moderate
+345,0,16.2,324,Moderate
+145,2,7.2,284,Moderate
+108,2,13.7,300,Moderate
+320,2,12.3,250,Needs Improvement
+350,0,7.6,284,Good
+366,1,16.5,202,Needs Improvement
+364,0,13.8,210,Moderate
+110,1,6.8,143,Excellent
+241,1,10.7,264,Moderate
+355,1,11.9,266,Moderate
+145,3,13.1,138,Moderate
+334,1,10.3,121,Moderate
+145,2,17.0,77,Moderate
+493,2,19.1,298,Needs Improvement
+119,1,16.5,337,Moderate
+308,3,8.8,301,Needs Improvement
+262,3,10.3,92,Moderate
+339,0,16.1,162,Moderate
+199,0,6.2,325,Good
+197,1,15.8,339,Moderate
+430,3,11.4,107,Needs Improvement
+343,0,6.1,328,Good
+471,2,11.3,71,Needs Improvement
+439,3,11.4,267,Needs Improvement
+102,1,6.7,66,Excellent
+280,2,7.6,94,Moderate
+274,0,15.7,171,Moderate
+157,2,17.4,269,Moderate
+134,1,15.9,155,Good
+462,0,11.8,322,Moderate
+193,1,7.1,199,Good
+198,2,19.1,313,Needs Improvement
+397,0,3.6,260,Good
+80,2,17.5,114,Moderate
+409,1,5.7,214,Moderate
+474,1,15.5,251,Needs Improvement
+300,1,12.0,187,Moderate
+371,3,8.1,88,Needs Improvement
+374,0,8.7,192,Good
+405,2,9.6,299,Needs Improvement
+217,0,17.5,97,Good
+424,3,13.1,233,Needs Improvement
+485,0,16.1,253,Needs Improvement
+161,3,16.7,303,Needs Improvement
+187,2,16.7,222,Moderate
+330,1,11.8,298,Moderate
+453,2,18.0,74,Needs Improvement
+73,0,12.9,285,Good
+58,0,18.7,130,Good
+275,3,1.0,269,Moderate
+153,1,17.8,204,Moderate
+131,2,2.8,234,Good
+178,0,8.1,134,Excellent
+76,3,12.9,169,Moderate
+269,0,14.4,50,Good
+159,3,2.5,165,Moderate
+315,3,1.2,225,Moderate
+468,0,19.8,266,Needs Improvement
+405,1,10.1,167,Moderate
+246,0,14.9,102,Good
+102,2,8.0,203,Good
+120,3,15.7,118,Moderate
+378,1,2.3,338,Moderate
+54,1,9.4,159,Excellent
+371,1,18.5,276,Needs Improvement
+490,1,2.6,101,Moderate
+121,0,12.2,246,Good
+229,3,7.0,121,Moderate
+176,2,13.2,177,Moderate
+333,2,15.8,63,Needs Improvement
+484,2,4.9,310,Needs Improvement
+146,3,6.6,77,Moderate
+451,1,10.4,107,Moderate
+173,3,13.1,86,Moderate
+320,0,19.8,212,Moderate
+117,3,17.4,341,Needs Improvement
+265,2,11.4,138,Moderate
+440,3,19.1,87,Needs Improvement
+58,0,1.3,160,Excellent
+70,0,19.0,253,Good
+309,2,12.9,306,Needs Improvement
+442,3,9.0,255,Needs Improvement
+92,1,6.3,208,Excellent
+90,1,19.5,129,Moderate
+324,2,8.4,83,Moderate
+208,3,14.9,172,Needs Improvement
+79,1,2.6,272,Excellent
+109,3,12.6,78,Moderate
+208,1,3.3,120,Good
+409,0,4.1,227,Good
+317,2,4.2,114,Moderate
+433,2,14.9,110,Needs Improvement
+444,0,7.4,269,Moderate
+189,0,6.0,345,Good
+371,0,10.4,311,Moderate
+234,0,10.5,340,Good
+135,2,4.0,102,Good
+343,0,5.3,310,Good
+51,0,17.3,56,Excellent
+175,0,10.0,246,Good
+126,1,18.7,68,Moderate
+333,3,5.3,177,Moderate
+263,2,6.2,89,Moderate
+342,2,3.3,76,Moderate
+141,1,16.3,73,Good
+255,0,17.7,194,Moderate
+446,2,7.2,333,Needs Improvement
+283,0,8.0,199,Good
+338,2,15.1,174,Needs Improvement
+287,2,12.2,302,Needs Improvement
+445,1,14.9,329,Needs Improvement
+439,1,3.9,259,Moderate
+62,1,11.3,54,Excellent
+221,0,15.4,242,Moderate
+484,2,3.0,321,Needs Improvement
+171,3,10.3,80,Moderate
+122,2,2.8,168,Good
+482,3,14.3,240,Needs Improvement
+284,0,12.0,308,Moderate
+118,3,2.4,340,Moderate
+81,3,13.6,116,Moderate
+171,2,6.0,211,Good
+460,3,14.3,217,Needs Improvement
+212,3,6.2,88,Moderate
+153,1,15.8,349,Moderate
+105,1,3.0,280,Excellent
+288,2,8.7,324,Moderate
+233,1,9.6,287,Moderate
+185,0,2.7,205,Excellent
+473,0,5.1,217,Moderate
+125,0,14.5,232,Good
+252,0,13.9,183,Good
+469,1,1.6,257,Moderate
+487,3,11.6,331,Needs Improvement
+177,0,9.8,121,Excellent
+112,0,2.2,163,Excellent
+116,1,16.6,240,Moderate
+401,0,12.1,182,Moderate
+466,0,1.4,83,Good
+151,3,16.4,97,Moderate
+483,2,3.3,286,Needs Improvement
+75,1,18.6,271,Moderate
+470,3,10.4,245,Needs Improvement
+399,3,4.3,159,Needs Improvement
+145,2,6.3,126,Good
+67,1,13.3,305,Good
+260,3,2.2,193,Moderate
+246,1,9.0,319,Moderate
+177,0,19.8,233,Moderate
+295,3,7.5,339,Needs Improvement
+307,2,8.4,142,Moderate
+63,2,12.3,65,Good
+465,2,2.1,291,Moderate
+321,2,15.6,169,Needs Improvement
+131,0,5.7,173,Excellent
+186,0,15.5,162,Good
+344,3,7.7,138,Needs Improvement
+140,1,12.3,233,Good
+352,0,14.4,230,Moderate
+340,1,11.7,146,Moderate
+478,3,11.3,139,Needs Improvement
+301,0,2.7,169,Excellent
+358,1,1.4,294,Moderate
+50,2,18.4,153,Moderate
+462,1,7.5,140,Moderate
+460,2,2.1,125,Moderate
+350,1,15.7,319,Needs Improvement
+490,2,19.3,241,Needs Improvement
+410,3,12.1,222,Needs Improvement
+204,2,3.6,130,Good
+424,3,16.0,299,Needs Improvement
+382,2,4.3,337,Moderate
+405,2,5.2,139,Moderate
+243,2,14.9,200,Moderate
+115,1,14.8,343,Moderate
+250,0,4.5,212,Excellent
+464,1,13.2,103,Moderate
+304,1,7.3,89,Good
+171,2,19.7,135,Moderate
+375,0,16.6,221,Moderate
+278,0,6.0,177,Good
+404,0,7.7,105,Good
+418,0,1.9,274,Good
+425,3,19.4,261,Needs Improvement
+302,3,7.7,242,Needs Improvement
+101,3,16.0,345,Needs Improvement
+383,1,4.1,87,Good
+459,0,6.6,213,Moderate
+183,0,2.4,137,Excellent
+242,1,14.9,330,Moderate
+97,2,12.3,297,Moderate
+410,0,9.2,134,Moderate
+360,3,4.0,101,Moderate
+219,1,19.5,259,Moderate
+406,2,13.6,202,Needs Improvement
+171,0,1.9,342,Excellent
+331,3,3.9,234,Moderate
+51,3,2.7,295,Good
+152,0,1.5,137,Excellent
+376,2,19.6,292,Needs Improvement
+482,0,6.9,253,Moderate
+291,3,18.0,185,Needs Improvement
+96,3,4.5,245,Moderate
+239,1,9.5,184,Good
+275,3,6.0,187,Moderate
+338,0,3.9,99,Good
+93,2,16.4,261,Moderate
+437,1,11.5,248,Needs Improvement
+469,3,19.3,293,Needs Improvement
+343,1,10.0,90,Moderate
+252,0,10.5,314,Good
+459,1,3.3,279,Moderate
+138,1,19.5,148,Moderate
+114,0,9.0,272,Excellent
+153,1,16.8,182,Moderate
+213,0,2.7,334,Excellent
+253,2,17.3,316,Needs Improvement
+284,0,15.9,350,Moderate
+317,3,3.1,126,Moderate
+125,0,18.6,338,Moderate
+449,0,15.9,324,Needs Improvement
+500,2,17.7,185,Needs Improvement
+246,3,11.9,292,Needs Improvement
+69,1,6.2,123,Excellent
+366,3,1.7,219,Moderate
+403,1,1.9,293,Moderate
+187,2,1.4,205,Good
+209,2,17.0,100,Moderate
+494,1,3.6,276,Moderate
+446,2,6.1,263,Needs Improvement
+359,0,4.6,158,Good
+471,3,15.1,314,Needs Improvement
+494,2,16.6,313,Needs Improvement
+455,1,2.2,309,Moderate
+256,1,15.8,318,Moderate
+500,0,4.3,152,Moderate
+478,0,5.7,283,Moderate
+75,2,14.4,190,Moderate
+238,3,10.6,113,Moderate
+398,0,5.6,300,Moderate
+354,3,4.4,292,Needs Improvement
+350,2,7.5,182,Moderate
+433,0,6.4,247,Moderate
+75,1,17.2,159,Good
+488,1,13.3,155,Needs Improvement
+187,3,10.8,54,Moderate
+292,1,13.3,54,Moderate
+164,2,12.6,206,Moderate
+414,2,9.1,242,Needs Improvement
+486,2,9.7,161,Needs Improvement
+288,2,13.9,253,Needs Improvement
+349,0,1.1,241,Good
+337,2,6.7,105,Moderate
+296,0,7.4,191,Good
+377,2,17.4,183,Needs Improvement
+385,2,4.6,314,Moderate
+441,1,18.1,256,Needs Improvement
+388,2,13.9,63,Needs Improvement
+385,3,20.0,182,Needs Improvement
+264,3,8.4,68,Moderate
+348,1,7.5,163,Moderate
+401,3,18.2,233,Needs Improvement
+309,2,17.1,335,Needs Improvement
+142,2,2.9,115,Good
+429,2,14.8,336,Needs Improvement
+440,1,19.0,221,Needs Improvement
+385,0,5.2,164,Good
+431,2,9.0,219,Needs Improvement
+240,2,12.1,287,Moderate
+485,0,9.9,348,Moderate
+347,0,10.0,149,Good
+306,0,17.5,245,Moderate
+321,2,8.8,127,Moderate
+120,1,7.5,341,Good
+284,1,7.0,142,Good
+448,0,10.3,140,Moderate
+210,0,1.1,190,Excellent
+157,1,11.9,131,Good
+300,0,3.5,272,Good
+374,3,8.7,294,Needs Improvement
+246,0,1.7,152,Excellent
+424,2,19.1,214,Needs Improvement
+437,1,1.3,52,Good
+370,1,5.3,226,Moderate
+209,1,3.0,307,Good
+351,2,4.2,73,Moderate
+202,2,9.7,316,Moderate
+355,2,9.2,118,Moderate
+225,3,7.8,146,Moderate
+134,3,1.4,164,Good
+422,1,5.0,61,Moderate
+351,1,3.3,69,Good
+242,2,15.7,74,Moderate
+354,0,13.6,60,Moderate
+74,0,8.9,244,Excellent
+113,2,10.0,128,Good
+155,0,6.7,101,Excellent
+389,2,12.8,120,Needs Improvement
+264,0,10.7,110,Good
+194,0,15.9,304,Moderate
+151,1,15.8,317,Moderate
+153,2,14.4,201,Moderate
+132,0,11.4,156,Excellent
+402,3,7.3,51,Needs Improvement
+56,0,18.2,343,Good
+392,3,3.8,96,Moderate
+449,0,14.7,101,Moderate
+181,1,9.7,201,Good
+185,3,2.0,139,Moderate
+497,0,17.2,234,Needs Improvement
+460,2,9.1,109,Needs Improvement
+98,0,1.2,120,Excellent
