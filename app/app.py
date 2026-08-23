@@ -1,6 +1,7 @@
 import streamlit as st
 import os
 import joblib
+import pandas as pd
 # -----------------------------
 # Load ML Model
 # -----------------------------
@@ -24,14 +25,57 @@ st.set_page_config(
 )
 
 # -----------------------------
+# Custom Styling
+# -----------------------------
+
+st.markdown(
+    """
+    <style>
+    .main {
+        padding-top: 2rem;
+    }
+
+    .eco-card {
+        padding: 1.2rem;
+        border-radius: 12px;
+        border: 1px solid rgba(128, 128, 128, 0.25);
+        margin-bottom: 1rem;
+    }
+
+    .eco-title {
+        font-size: 2.8rem;
+        font-weight: 700;
+    }
+
+    .eco-subtitle {
+        font-size: 1.2rem;
+        opacity: 0.8;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+# -----------------------------
 # Header
 # -----------------------------
-st.title("🌱 EcoSense AI")
-st.subheader("AI-Powered Sustainability Decision Support")
+st.markdown(
+    '<div class="eco-title">🌱 EcoSense AI</div>',
+    unsafe_allow_html=True
+)
 
+st.markdown(
+    '<div class="eco-subtitle">'
+    'AI-Powered Sustainability Decision Support'
+    '</div>',
+    unsafe_allow_html=True
+)
 st.write(
     "EcoSense AI helps users understand the sustainability impact "
     "of everyday choices and provides practical recommendations."
+)
+st.caption(
+    "🌍 Primary SDG: SDG 12 — Responsible Consumption and Production"
 )
 
 st.divider()
@@ -98,12 +142,22 @@ if st.button("🌱 Analyse My Sustainability", type="primary"):
 
     transport_value = transport_mapping[transport]
 
-    prediction = model.predict([[
+    prediction_data = pd.DataFrame(
+    [[
         electricity,
         transport_value,
         waste,
         water
-    ]])[0]
+    ]],
+    columns=[
+        "electricity",
+        "transport",
+        "waste",
+        "water"
+    ]
+)
+
+    prediction = model.predict(prediction_data)[0]
 
     st.subheader("🤖 AI Sustainability Classification")
     st.success(f"EcoSense AI predicts: **{prediction}**")
@@ -330,20 +384,43 @@ if st.button("🌱 Analyse My Sustainability", type="primary"):
 # -----------------------------
 st.divider()
 
+# -----------------------------
+# Responsible AI
+# -----------------------------
+
+st.divider()
+
 st.header("🛡️ Responsible AI")
 
-st.write(
+st.markdown(
     """
-    **Fairness:** Recommendations should not unfairly favour one group,
-    location, or lifestyle.
+### ⚖️ Fairness
 
-    **Transparency:** The system should explain the factors influencing
-    its recommendations.
+EcoSense AI does not use sensitive personal characteristics such as
+religion, ethnicity, gender, or income to classify sustainability
+profiles. Recommendations are based on the sustainability inputs
+provided by the user.
 
-    **Privacy:** Users should not be required to provide unnecessary
-    personal or sensitive information.
+### 🔎 Transparency
 
-    **Ethics:** The system should avoid misleading environmental claims
-    and present recommendations responsibly.
-    """
+The system displays the major factors associated with its assessment
+so that users can understand why a sustainability category was produced.
+
+### 🧭 Ethics
+
+EcoSense AI provides sustainability guidance rather than claiming to
+make scientifically definitive judgments about an individual's
+environmental impact.
+
+### 🔐 Privacy
+
+The prototype does not require users to provide personally identifiable
+or sensitive information.
+
+### ⚠️ Model Limitation
+
+The current machine-learning model was trained using a synthetic dataset
+created for prototype development. Its predictions should therefore not
+be treated as scientifically validated environmental measurements.
+"""
 )
