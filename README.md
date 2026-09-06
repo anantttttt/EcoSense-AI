@@ -690,9 +690,9 @@ EcoSense AI
 
 ![Category Performance](images/02_category_performance.png)
 
-### 🧠 Machine Learning Prediction
+### 💡 Recommended Actions
 
-![ML Prediction and Decision Factors](images/03_ml_prediction_and_decision_factors.png)
+![Recommended Actions](images/03_recommended_actions.png)
 
 ### 🔮 What-If Simulator
 
@@ -706,9 +706,6 @@ EcoSense AI
 
 ![Responsible AI](images/06_responsible_ai.png)
 
-### 💡 Recommended Actions
-
-![Recommended Actions](images/07_recommended_actions.png)
 
 -----------------------------------------------------------------------
 
