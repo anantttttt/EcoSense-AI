@@ -678,6 +678,40 @@ EcoSense AI
 
 ------------------------------------------------------------------------
 
+---
+
+## 📸 Application Screenshots
+
+### 🏠 Main Dashboard
+
+![EcoSense AI Main Dashboard](images/01_main_dashboard.png)
+
+### 📊 Category Performance
+
+![Category Performance](images/02_category_performance.png)
+
+### 🧠 Machine Learning Prediction
+
+![ML Prediction and Decision Factors](images/03_ml_prediction_and_decision_factors.png)
+
+### 🔮 What-If Simulator
+
+![What-If Simulator](images/04_what_if_simulator.png)
+
+### 🤖 IBM Granite Sustainability Advisor
+
+![IBM Granite Advisor](images/05_ibm_granite_advisor.png)
+
+### 🛡️ Responsible AI
+
+![Responsible AI](images/06_responsible_ai.png)
+
+### 💡 Recommended Actions
+
+![Recommended Actions](images/07_recommended_actions.png)
+
+-----------------------------------------------------------------------
+
 ## 📄 License
 
 This project is intended to be released under the **MIT License**.
